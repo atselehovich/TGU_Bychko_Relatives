@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BychkoAnnaFamilyTree</string>
+    <string name="familytree">Семейное древо</string>
+    <string name="aboutapp">Семья — единственный устойчивый краеугольный камень, который я знаю. Так же как и единственное по-настоящему работающее учреждение, которое мне известно, является семьей.</string>
+    <string name="buttonaboutapp">Цитата</string>
+    <string name="quoteauthor">Ли Якокка</string>
+</resources>

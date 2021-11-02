@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.quote.Quote">
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:elegantTextHeight="true"
+        android:text="@string/aboutapp"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/quoteAuthor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/quote"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:elegantTextHeight="true"
+        android:text="@string/quoteauthor"
+        android:textAllCaps="true" />
+
+    <ImageView
+        android:id="@+id/Li"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/quoteAuthor"
+        app:layout_constraintStart_toStartOf="parent"
+        android:src="@drawable/mgn_1280x960_90702c00_odwzr"
+        android:contentDescription="@string/quoteauthor"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

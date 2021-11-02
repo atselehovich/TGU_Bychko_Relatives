@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GradleLab_BychkoAnnaFamilyTree</string>
+    <string name="familytree">GradleLab: Семейное древо</string>
+    <string name="aboutapp">GradleLab: Семья — единственный устойчивый краеугольный камень, который я знаю. Так же как и единственное по-настоящему работающее учреждение, которое мне известно, является семьей. Ли Якокка</string>
+    <string name="buttonaboutapp">GradleLab: Цитата</string>
+</resources>

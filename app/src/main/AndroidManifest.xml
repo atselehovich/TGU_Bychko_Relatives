@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kotlinstudy.bychkoanna">
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Степени родства"
+        android:roundIcon="@drawable/ic_label_20211021210038"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BychkoAnna">
+        <activity
+            android:name="com.kotlinstudy.bychkoanna.ui.quote.Quote"
+            android:exported="true"
+            android:label="Цитата" />
+        <activity
+            android:name=".ui.details.DetailsActivity"
+            android:exported="true"
+            android:label="Описание" />
+        <activity
+            android:name=".ui.list.ListActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

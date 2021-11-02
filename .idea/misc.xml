@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/211013 prjcts/BychkoALab3UiV5/app/src/main/res/layout/activity_details_grade.xml" value="0.1" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/211013 prjcts/BychkoALab3UiV5/app/src/main/res/layout/activity_details_grade_one.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/211013 prjcts/BychkoALab3UiV5/app/src/main/res/layout/activity_main.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/211013 prjcts/BychkoALab3UiV5/app/src/main/res/layout/list_item.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna lab gradle constraint/app/src/main/res/layout/activity_details.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna lab gradle constraint/app/src/main/res/layout/activity_main.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna lab gradle constraint/app/src/main/res/layout/activity_quote.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna lab gradle constraint/app/src/main/res/layout/list_item.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna/app/src/main/res/layout/activity_details_grade.xml" value="0.1" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna/app/src/main/res/layout/activity_quote.xml" value="0.12" />
+        <entry key="..\:/Users/Anuta/AndroidStudioProjects/tgu prjcts/BychkoAnna/app/src/main/res/layout/list_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
